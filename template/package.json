@@ -1,0 +1,13 @@
+{
+  "name": "{{ name }}",
+  "version": "1.0.0",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
+  "scripts": {
+    "start": "good start",
+    "build": "good build"
+  },
+  "dependencies": {
+    "npm-zepto": "^1.1.7"
+  }
+}

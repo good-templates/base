@@ -8,6 +8,6 @@
     "build": "good build"
   },
   "dependencies": {
-    "npm-zepto": "^1.1.7"
+    "zepto-modules": "^1.0.1"
   }
 }

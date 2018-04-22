@@ -1,6 +1,6 @@
 require('../index.html')
 require('../css/package.scss')
-var Zepto = require('npm-zepto')
+var Zepto = require('zepto-modules')
 
 /**
  * init

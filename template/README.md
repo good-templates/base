@@ -6,7 +6,7 @@
 
 ```bash
 # 安装依赖
-npm install # 或者使用 yarn install
+npm install
 
 # 开发模式
 npm start
